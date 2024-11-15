@@ -48,7 +48,7 @@ pandas-stubs==2.2.3.241009
 pillow==11.0.0
 proglog==0.1.10
 propcache==0.2.0
-PyAudio==0.2.14
+PyAudio==0.2.11
 pydantic==2.9.2
 pydantic-extra-types==2.10.0
 pydantic-settings==2.6.1
