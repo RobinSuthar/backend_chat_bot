@@ -8,5 +8,3 @@ gunicorn==20.1.0
 uvicorn==0.22.0
 python-dotenv==1.0.1
 moviepy==1.0.3
-pipwin==0.5.5
-pyaudio==0.2.11
