@@ -5,4 +5,5 @@ gTTS
 moviepy
 fastapi
 pydantic
-gunicorn uvicorn
+gunicorn 
+uvicorn
