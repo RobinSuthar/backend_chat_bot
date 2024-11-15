@@ -260,6 +260,10 @@ keyword_responses = {
     "offers": store_data['offers']
 }
 
+@app.get("/")
+def read_root():
+    return {"message": "Hello, world!"}
+
 @app.post("/ask")
 async def ask_bot(question: Question):
     try:
