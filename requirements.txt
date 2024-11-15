@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pygame
+SpeechRecognition
+gTTS
+moviepy
+fastapi
+pydantic
